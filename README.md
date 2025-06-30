@@ -37,12 +37,13 @@ The app has a modern UI and uses RecyclerView to show news in a smooth and scrol
 ---
 
 ## Screenshots
+![Image](https://github.com/user-attachments/assets/c8894187-2fe5-4810-91c4-dbb1433868f3)
 
-> *(Add real screenshots here after running the app)*
+![Image](https://github.com/user-attachments/assets/c9c516ec-8022-4e8f-b90f-51d3e575b136)
 
-| Home Screen | News Categories |
-|-------------|-----------------|
-| ![Home](https://via.placeholder.com/200x400.png?text=Home+Screen) | ![Category](https://via.placeholder.com/200x400.png?text=Categories) |
+![Image](https://github.com/user-attachments/assets/5b085870-88fc-445a-bd2c-df656397f3f1)
+
+![Image](https://github.com/user-attachments/assets/f53f0069-8330-4fa6-99cf-2ca13747661b)
 
 ---
 
