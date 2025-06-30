@@ -37,13 +37,22 @@ The app has a modern UI and uses RecyclerView to show news in a smooth and scrol
 ---
 
 ## Screenshots
-  
+  ### Home Screen
 ![News Main Screen](https://github.com/user-attachments/assets/c8894187-2fe5-4810-91c4-dbb1433868f3)
+---
 
+
+### News opened in WebView
 ![Image](https://github.com/user-attachments/assets/c9c516ec-8022-4e8f-b90f-51d3e575b136)
+---
 
+
+ ### Sports Category
 ![Image](https://github.com/user-attachments/assets/5b085870-88fc-445a-bd2c-df656397f3f1)
+---
 
+
+ ### Science Category
 ![Image](https://github.com/user-attachments/assets/f53f0069-8330-4fa6-99cf-2ca13747661b)
 
 ---
