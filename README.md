@@ -30,14 +30,15 @@ The app has a modern UI and uses RecyclerView to show news in a smooth and scrol
 
 ## Features
 
-- 📑 Displays real-time news headlines by category
-- 🧭 Click to read full articles in a browser
-- 🖼️ Displays featured images from articles
-- 📐 Clean and responsive UI with CardView and RecyclerView
+> Displays real-time news headlines by category
+> Click to read full articles in a browser
+> Displays featured images from articles
+> Clean and responsive UI with CardView and RecyclerView
 ---
 
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/c8894187-2fe5-4810-91c4-dbb1433868f3)
+  
+![News Main Screen](https://github.com/user-attachments/assets/c8894187-2fe5-4810-91c4-dbb1433868f3)
 
 ![Image](https://github.com/user-attachments/assets/c9c516ec-8022-4e8f-b90f-51d3e575b136)
 
