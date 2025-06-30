@@ -1,12 +1,18 @@
-# 📰 News App
+# News App
 
-## 📌 Overview
+## Overview
 
 The **News App** is a modern Android application developed using **Java** and **XML**, designed to keep users informed with the latest news headlines across various categories such as Technology, Business, Sports, Health, and more. The app fetches data in real-time using the **NewsAPI.org** and presents it in a clean, user-friendly UI using **RecyclerView**.
 
----
 
-## 💻 Technology Used
+## Description
+
+This is a simple and clean Android News App built using Java and XML.
+It fetches the latest news from the internet and displays it in different categories.
+Users can read headlines, open full articles, and stay updated with current events.
+The app has a modern UI and uses RecyclerView to show news in a smooth and scrollable list.
+
+## Technology Used
 
 | Purpose              | Technology / Library           |
 |----------------------|-------------------------------|
@@ -22,7 +28,7 @@ The **News App** is a modern Android application developed using **Java** and **
 
 ---
 
-## 🚀 Features
+## Features
 
 - 📑 Displays real-time news headlines by category
 - 🧭 Click to read full articles in a browser
@@ -30,7 +36,7 @@ The **News App** is a modern Android application developed using **Java** and **
 - 📐 Clean and responsive UI with CardView and RecyclerView
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > *(Add real screenshots here after running the app)*
 
@@ -40,7 +46,7 @@ The **News App** is a modern Android application developed using **Java** and **
 
 ---
 
-## 🔧 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
